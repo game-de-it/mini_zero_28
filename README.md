@@ -4,7 +4,7 @@ We are currently checking whether we can release the Linux SDK.
 
 # Prerequisites
 - Ubuntu version
-  - ubuntu-16.04.7-desktop-amd64
+  - ubuntu-16.04.7-desktop-amd64.iso
   - ubuntu-16.04.7-server-amd64.iso
  
 # Preparing the build machine
